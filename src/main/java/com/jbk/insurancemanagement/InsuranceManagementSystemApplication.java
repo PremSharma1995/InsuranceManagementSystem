@@ -10,4 +10,6 @@ public class InsuranceManagementSystemApplication {
 		SpringApplication.run(InsuranceManagementSystemApplication.class, args);
 	}
 
+	System.out.println("Running Successfully");
+
 }
